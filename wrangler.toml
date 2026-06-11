@@ -1,7 +1,0 @@
-name = "growthoria-site"
-compatibility_date = "2026-06-12"
-pages_build_output_dir = "."
-
-[[kv_namespaces]]
-binding = "GROWTHORIA_KV"
-id = "03c4ea796ec94c00b10ef8bd5a00b476"
